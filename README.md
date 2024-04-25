@@ -10,7 +10,7 @@ console.log(a);
 ```
 Приклад 2:
 
-```
+```javascript
 myFunction(); 
 
 function myFunction() { 
@@ -20,14 +20,14 @@ function myFunction() {
 ```
 
 Приклад 3:
-```
+```javascript
 console.log(b); 
 let b = 5; 
 
 ```
 
 Приклад 5:
-```
+```javascript
 const myArrowFunction = () => { 
 console.log('Hello from arrow function'); 
 }
