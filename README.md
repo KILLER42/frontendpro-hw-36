@@ -26,7 +26,7 @@ let b = 5;
 
 ```
 
-Приклад 5:
+Приклад 4:
 ```javascript
 const myArrowFunction = () => { 
 console.log('Hello from arrow function'); 
